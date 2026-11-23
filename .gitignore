@@ -1,0 +1,4 @@
+/runtime/
+/model/*.gguf
+__pycache__/
+*.tmp
